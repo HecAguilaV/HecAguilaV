@@ -316,7 +316,7 @@ Creo que entender el **problema completo**, diseñar la **arquitectura adecuada*
 ---
 ## 📊 GitHub Analytics
 
-### Lenguajes más utilizados
+### Lenguajes y tecnologías principales
 
 <table align="center">
   <tr>
@@ -357,26 +357,31 @@ Creo que entender el **problema completo**, diseñar la **arquitectura adecuada*
   </tr>
 </table>
 
-### Actividad reciente
+### Actividad
 
 <table align="center">
   <tr>
-    <td><b>📈 Contribuciones totales</b></td>
+    <td><b>Contribuciones totales</b></td>
     <td>927 (mayo 2024 - presente)</td>
   </tr>
   <tr>
-    <td><b>🔥 Racha actual</b></td>
-    <td>7 días (3 dic 2024 - 5 ene 2025)</td>
+    <td><b>Commits</b></td>
+    <td>854+</td>
   </tr>
   <tr>
-    <td><b>🏆 Racha más larga</b></td>
-    <td>8 días (27 oct - 3 nov 2024)</td>
+    <td><b>Repositorios públicos</b></td>
+    <td>12+ (ecosistema multi-repo)</td>
   </tr>
   <tr>
-    <td><b>🗂️ Repositorios públicos</b></td>
-    <td>12+</td>
+    <td><b>Licencias usadas</b></td>
+    <td>MIT License</td>
+  </tr>
+  <tr>
+    <td><b>Racha actual</b></td>
+    <td>7 días</td>
   </tr>
 </table>
+
 ---
 
 ## 🤝 Conectemos
