@@ -315,13 +315,54 @@ Creo que entender el **problema completo**, diseñar la **arquitectura adecuada*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel. app/api?username=HecAguilaV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecAguilaV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=HecAguilaV&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D"/>
+</p>
 
+### Lenguajes más utilizados
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+      <br>TypeScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
+      <br>Svelte
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+  </tr>
+</table>
+
+**Actividad:** 927 contribuciones totales desde mayo 2024 • 12+ repositorios públicos
 ---
 
 ## 🤝 Conectemos
