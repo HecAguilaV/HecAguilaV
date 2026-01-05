@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hola, soy Héctor Aguila</h1>
-  <p><em>Un Soñador con Poca RAM</em> 💻</p>
+  <p><em>>Un Soñador con Poca RAM</em> 💻</p>
   
   <p>
     <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Ciencia de Datos<br/>
