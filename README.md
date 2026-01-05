@@ -1,77 +1,88 @@
 <div align="center">
   <h1>Hola, soy Héctor Aguila</h1>
-  <p><em>> Un Soñador con Poca RAM</em> 💻</p>
+  <p><code>hector@macbook ~ %</code> <em>Un Soñador con Poca RAM</em> 💻</p>
   
   <p>
     <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Ciencia de Datos<br/>
     De carpintero a código • 41 años • Puerto Montt, Chile 🇨🇱
   </p>
+
   
   <p>
-    <a href="https://www.linkedin.com/in/hecaguilav"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:hdaguila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836? style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url"><img src="https://img.shields.io/badge/Credly-FF6B00? style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+    <a href="https://www.linkedin.com/in/hecaguilav">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:hdaguila@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <a href="https://www.credly.com/users/hector-aguila">
+      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
   </p>
 </div>
 
 ---
-
 ## Sobre Mí
 
-Transicioné desde la construcción hacia el desarrollo de software, combinando **disciplina operativa** con **pasión por resolver problemas reales** mediante tecnología. 
+### `$ whoami`
 
-Creo en la **orquestación de sistemas** tanto como en picar código.  Mi enfoque está en entender el problema completo antes de escribir la primera línea. 
-
-```bash
-$ whoami
-Estado actual:   Tercer año de Ingeniería en Informática (Mención Ciencia de Datos)
-Objetivo:        Posición Trainee/Junior Developer
-Aprendiendo:     Kotlin Multiplatform, Python, Machine Learning, Arquitectura de Software
-                De todo un poco, con la convicción de especializarme para aportar mayor valor
-Certificaciones:  • Generative AI Professional Certificate (GAIPC) - Certiproof
-                • Python Programming Fundamentals
-```
+| | |
+|:---|:---|
+| **Estado actual** | Tercer año de Ingeniería en Informática (Mención Ciencia de Datos) |
+| **Objetivo** | Posición Trainee/Junior Developer |
+| **Aprendiendo** | Kotlin Multiplatform, Python, Machine Learning, Arquitectura de Software<br/>De todo un poco, con la convicción de especializarme para aportar mayor valor |
+| **Certificaciones** | • Generative AI Professional Certificate (GAIPC) - Certiproof<br/>• Python Programming Fundamentals |
 
 <div align="center">
   <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url">
-    <img src="https://images.credly.com/size/340x340/images/2335be89-5d1c-4857-b082-cf4d0e8b9a47/image.png" 
-         alt="Generative AI Professional Certificate" 
-         width="120"/>
-  </a>
+    <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob" 
+         alt="Generative AI Professional Certificate - GAIPC" 
+         width="110"/></a>
+  
+  <a href="https://www.credly.com/badges/5aa5ca49-85b1-4ae0-8b04-c60ab194699f/public_url">
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
+         alt="Python Programming Fundamentals" 
+         width="110"/></a>
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="80">
+<a href="https://github.com/HecAguilaV/SIGA">
+<img src="https://github.com/HecAguilaV/SIGA/blob/main/docs/brand/Logo_SIGA.png? raw=true" width="70" alt="SIGA Logo"/>
+</a>
+</td>
+<td>
 
 ## 💼 Proyecto Destacado:  SIGA
 
 **Sistema Inteligente de Gestión de Activos** - Ecosistema completo de gestión empresarial para PYMEs
 
+</td>
+</tr>
+</table>
+
 ### El Problema
-Las PYMEs chilenas sufren **parálisis operativa**:  sistemas complejos, planillas frágiles, y pérdida del recurso más valioso: **el tiempo**. Los ERPs tradicionales no piensan en el dueño multirol que gestiona todo.
+Las PYMEs chilenas sufren **parálisis operativa**:  sistemas complejos, planillas frágiles, y pérdida del recurso más valioso: **el tiempo**.  Los ERPs tradicionales no piensan en el dueño multirol que gestiona todo.
 
 ### La Solución
-Ecosistema multi-plataforma con asistente IA conversacional que permite gestionar inventarios, ventas y operaciones desde cualquier dispositivo. 
+Ecosistema multi-plataforma con asistente IA conversacional que permite gestionar inventarios, ventas y operaciones desde cualquier dispositivo.
 
 ### Stack Tecnológico
 
-<div align="center">
-
 | Capa | Tecnología |
-|: -----|:-----------|
+|:-----|:-----------|
 | 🔙 **Backend** | Kotlin + Spring Boot + PostgreSQL |
-| 🌐 **Frontend Web** | Svelte + TailwindCSS + Vite |
+| 🌐 **WebApp Operativa** | Svelte + Bulma CSS + Vite |
+| 🎨 **Portal Comercial** | React + Bootstrap + Vite |
 | 📱 **App Móvil** | Kotlin + Jetpack Compose (Android) |
-| 🎨 **Landing** | JavaScript + Bulma CSS |
 | 🤖 **IA** | Google Gemini API |
 | 🚀 **Deploy** | Railway (Backend) + Vercel (Frontend) |
-
-</div>
 
 ### Arquitectura
 - ✅ **Multi-tenancy**:  Separación de datos por empresa
 - ✅ **API REST** con JWT + Spring Security
 - ✅ **SSO**:  Flujo de autenticación único entre apps
-- ✅ **Offline-first**: Sincronización automática móvil ↔ web
+- ✅ **Online-first**: Sincronización en tiempo real móvil ↔ web
 - ✅ **Asistente IA**: Gemini para consultas en lenguaje natural
 
 📂 **Repositorios del Ecosistema:**
@@ -90,17 +101,66 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 
 ## 🧪 Otros Proyectos
 
-### 📚 [El Arca](https://github.com/HecAguilaV/El_Arca)
+<table>
+<tr>
+<td width="80">
+<a href="https://github.com/HecAguilaV/El_Arca">
+<img src="https://raw.githubusercontent.com/HecAguilaV/El_Arca/main/public/LOGO.svg" width="70" alt="El Arca Logo"/>
+</a>
+</td>
+<td>
+
+## [El Arca](https://github.com/HecAguilaV/El_Arca)
+
 **Biblioteca Digital Teológica** - Plataforma de estudio bíblico con IA
 
-- Stack: Svelte + Python (FastAPI) + ChromaDB (RAG)
-- Features: Asistente IA teológico, gestión de biblioteca PDF, notas con Markdown
-- Integraciones: API. Bible (American Bible Society) + Google Gemini
+</td>
+</tr>
+</table>
 
-### 📊 [ML Análisis Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)
+**Problema:** Necesidad de una herramienta de estudio teológico personal que integre recursos digitales, notas personales y asistencia de IA en un solo lugar.  
+
+**Solución:** SPA con autenticación social, gestión de biblioteca PDF, notas con Markdown y asistente IA contextual. 
+
+**Stack:**
+- **Frontend:** Svelte + TailwindCSS + Vite
+- **Backend:** Python (FastAPI) + ChromaDB (RAG/Vector Search)
+- **Base de Datos:** SQLite (desarrollo) + PostgreSQL (producción)
+- **Deploy:** Vercel (Frontend) + Render (Backend)
+
+**Features:**
+- Autenticación con Google (OAuth)
+- Gestión de biblioteca PDF desde Google Drive
+- Notas personales con editor Markdown
+- Asistente IA teológico con personalidades (Erudito, Neopuritano, Bautista)
+- Búsqueda semántica con RAG (Retrieval-Augmented Generation)
+
+**Integraciones:**
+- **API.Bible** - American Bible Society (textos bíblicos)
+- **Google Gemini API** - Asistente conversacional IA
+- **Google Drive API** - Carga de archivos PDF personales
+- **Google OAuth** - Autenticación y gestión de usuarios
+
+---
+
+<table>
+<tr>
+<td width="80" align="center">
+<a href="https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev">
+<img src="https://img.shields.io/badge/ML-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" width="70" alt="ML Analysis"/>
+</a>
+</td>
+<td>
+
+## [ML Análisis Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)
+
 **Análisis del Mercado Tech Chileno/Global** - Machine Learning aplicado a encuestas de StackOverflow y JetBrains
 
-**Problema:** ¿En qué tecnologías debería enfocarme como desarrollador novato para entrar al mercado laboral?
+</td>
+</tr>
+</table>
+
+**Problema:** ¿En qué tecnologías debería enfocarme como desarrollador novato para entrar al mercado laboral? 
 
 **Solución:** Pipeline de análisis de datos con visualizaciones interactivas sobre: 
 - Evolución de lenguajes y frameworks (2019-2025)
@@ -109,10 +169,10 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 - Recomendaciones para nuevos desarrolladores
 
 **Stack:**
-- **Procesamiento**:  Python + Pandas + NumPy + Scikit-learn
-- **Orquestación**: Apache Airflow + DVC (versionado de datos)
-- **Visualización**:  Plotly + Matplotlib + Jupyter Notebooks
-- **Infraestructura**: Docker + Docker Compose
+- **Procesamiento:** Python + Pandas + NumPy + Scikit-learn
+- **Orquestación:** Apache Airflow + DVC (versionado de datos)
+- **Visualización:** Plotly + Matplotlib + Jupyter Notebooks
+- **Infraestructura:** Docker + Docker Compose
 
 **Hallazgos Clave:**
 - 🤖 65% de developers usan IA en su flujo de trabajo (2024)
@@ -128,6 +188,7 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ### Frameworks & Librerías
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -143,6 +204,7 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
 
@@ -150,19 +212,144 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### IA & APIs
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![API. Bible](https://img.shields.io/badge/API.Bible-4A4A4A?style=for-the-badge&logo=readme&logoColor=white)
 
 ---
 
-## 📈 Competencias Clave
 
-```yaml
-Arquitectura de Software:
-  - Modelo 4+1 (vistas lógica, proceso, desarrollo, física)
-  - Multi-tenancy (aislamiento de datos por organización)
-  - API-first design
-
+## Competencias Clave
+
+### Arquitectura de Software
+- **Modelo 4+1**: Vistas lógica, proceso, desarrollo, física
+- **Multi-tenancy**: Aislamiento de datos por organización
+- **API-first design**: REST + OpenAPI/Swagger
+- **Patrones**: Repository, Service Layer, DTO
+
+### Backend Development
+- **API REST**: Spring Boot + Ktor
+- **Autenticación**:  JWT + Spring Security
+- **ORM**: JPA/Hibernate
+- **Bases de Datos**:  Oracle Database & PL/SQL
+
+### Frontend Development
+- **SPA**: Svelte (reactivity + stores)
+- **Responsive Design**: Tailwind + Bulma
+- **Integración**:  Consumo de APIs REST
+- **Estado**: State management
+
+### Mobile Development
+- **Android Nativo**:  Jetpack Compose
+- **Arquitectura**: MVVM + Clean Architecture
+- **Networking**:  Retrofit (consumo API)
+- **Sincronización**: Online-first + tiempo real
+
+### Data Science
+- **ETL Pipelines**: Pandas + Airflow
+- **Análisis Exploratorio**: EDA con Jupyter
+- **Visualización**: Plotly, Matplotlib
+- **Machine Learning**: Scikit-learn (clasificación, clustering)
+
+### DevOps
+- **Contenedores**: Docker + Docker Compose
+- **CI/CD**: GitHub Actions
+- **Deploy**: Railway + Render + Vercel
+- **Versionado**: Git + DVC (datos)
+
+---
+
+## 🎓 Formación & Certificaciones
+
+- 🎓 **Ingeniería en Informática** - Mención Ciencia de Datos (En curso - 3er año)
+- 🏆 **Generative AI Professional Certificate (GAIPC)** - Certiproof
+- 📜 **Python Programming Fundamentals** - Certificado de finalización
+
+---
+
+## 🌱 Actualmente Aprendiendo
+
+- 🗄️ Oracle Database:  PL/SQL, procedures, triggers, packages
+- 🔄 Kotlin Multiplatform (KMM) para compartir lógica iOS/Android
+- 🧪 Testing: JUnit + Mockito (backend) y Jest (frontend)
+- 📊 Observabilidad: Logs estructurados + métricas básicas
+- 🗣️ Inglés técnico conversacional
+
+---
+
+## 🧠 Enfoque de Trabajo
+
+**Arquitectura primero, código después.**
+
+Mi proceso natural es:
+1. **Entender el problema real** (no el síntoma)
+2. **Diseñar la solución** (diagramas, modelo de datos, flujos)
+3. **Validar con fundamentos** (patrones, buenas prácticas)
+4. **Implementar con propósito** (código que resuelve, no que rellena)
+
+No soy un "picador de código" que resuelve tickets sin contexto.   
+Soy un **orquestador de soluciones** que necesita entender el **por qué** antes del **cómo**.
+
+**En un equipo ideal:**
+- Preguntaré el contexto antes de proponer (evito soluciones apresuradas)
+- Documentaré decisiones (para el equipo futuro, incluyéndome)
+- Buscaré feedback temprano (validar dirección antes de invertir tiempo)
+- Ejecutaré con fundamento (basado en arquitectura, no en "vibes")
+
+---
+
+## 💡 Filosofía de Desarrollo
+
+> **"Orquestar es tan valioso como codificar"**
+
+Creo que entender el **problema completo**, diseñar la **arquitectura adecuada** y **documentar decisiones** es tan importante como escribir código elegante.
+
+### Mis Principios: 
+1. **Simplicidad radical**:  Si no puedo explicarlo en 2 frases, está mal diseñado
+2. **Documentación como código**: Un README bien escrito ahorra 100 mensajes de Slack
+3. **Criterio sobre impulso**: Prefiero preguntar dos veces antes de construir la solución equivocada
+4. **El tiempo es la moneda**: Automatizar lo repetitivo, pensar lo estratégico
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel. app/api?username=HecAguilaV&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HecAguilaV&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Conectemos
+
+Estoy buscando oportunidades como **Trainee/Junior Developer** donde pueda aportar mi visión de arquitectura, capacidad de aprendizaje y compromiso con entregar valor real.
+
+**¿Por qué contratarme?**
+- ✅ **Madurez profesional**:  15+ años en rubros operativos (carpintería, construcción)
+- ✅ **Capacidad de ejecución autónoma**: Proyectos completos desplegados sin supervisión técnica
+- ✅ **Mentalidad de aprendizaje**: GitHub es mi portafolio de errores y mejoras
+- ✅ **Enfoque en fundamentos**: Arquitectura y patrones antes que frameworks de moda
+- ✅ **Comunicación clara**: La documentación previene el caos futuro
+
+**Lo que necesito en un equipo:**
+- Contexto antes de tareas (entender el "por qué")
+- Feedback técnico continuo (estoy aprendiendo, necesito guía)
+- Espacio para preguntar (prefiero validar antes que equivocarme a escala)
+
+📧 **Email**:  hdaguila@gmail.com  
+💼 **LinkedIn**: [/in/hecaguilav](https://www.linkedin.com/in/hecaguilav)  
+🏆 **Credly**: [Ver Certificaciones](https://www.credly.com/users/hector-aguila)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HecAguilaV&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
+  
+  <p><em>"El código es temporal, el aprendizaje es permanente"</em></p>
+  
+  <p><code>hector@macbook ~ %</code> <strong>Un Soñador con Poca RAM</strong> 💻</p>
+</div>
