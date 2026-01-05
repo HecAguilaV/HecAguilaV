@@ -314,12 +314,7 @@ Creo que entender el **problema completo**, diseñar la **arquitectura adecuada*
 4. **El tiempo es la moneda**: Automatizar lo repetitivo, pensar lo estratégico
 
 ---
-
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=HecAguilaV&theme=tokyonight&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D"/>
-</p>
 
 ### Lenguajes más utilizados
 
@@ -362,7 +357,26 @@ Creo que entender el **problema completo**, diseñar la **arquitectura adecuada*
   </tr>
 </table>
 
-**Actividad:** 927 contribuciones totales desde mayo 2024 • 12+ repositorios públicos
+### Actividad reciente
+
+<table align="center">
+  <tr>
+    <td><b>📈 Contribuciones totales</b></td>
+    <td>927 (mayo 2024 - presente)</td>
+  </tr>
+  <tr>
+    <td><b>🔥 Racha actual</b></td>
+    <td>7 días (3 dic 2024 - 5 ene 2025)</td>
+  </tr>
+  <tr>
+    <td><b>🏆 Racha más larga</b></td>
+    <td>8 días (27 oct - 3 nov 2024)</td>
+  </tr>
+  <tr>
+    <td><b>🗂️ Repositorios públicos</b></td>
+    <td>12+</td>
+  </tr>
+</table>
 ---
 
 ## 🤝 Conectemos
