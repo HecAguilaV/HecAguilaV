@@ -14,28 +14,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           
+          # Configuración base
           user: HecAguilaV
           template: classic
-          base:  header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
           
+          # Solo lenguajes (lo más confiable)
           plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_languages_categories: markup, programming
-          plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_categories: markup, programming
-          plugin_languages_recent_days: 365
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 0%
-          
-          plugin_habits: yes
-          plugin_habits_from:  200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
+          plugin_languages_colors: github
+          plugin_languages_indepth: no
