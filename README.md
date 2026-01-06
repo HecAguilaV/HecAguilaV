@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:hdaguila@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-    <a href="https://www.credly.com/users/hector-aguila">
+    <a href="https://www.credly.com/users/hecaguilav">
       <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
   </p>
 </div>
@@ -401,7 +401,7 @@ Estoy buscando oportunidades como **Trainee/Junior Developer** donde pueda aport
 
 📧 **Email**:  hdaguila@gmail.com  
 💼 **LinkedIn**: [/in/hecaguilav](https://www.linkedin.com/in/hecaguilav)  
-🏆 **Credly**: [Ver Certificaciones](https://www.credly.com/users/hector-aguila)
+🏆 **Credly**: [Ver Certificaciones](https://www.credly.com/users/hecaguilav)
 
 ---
 
