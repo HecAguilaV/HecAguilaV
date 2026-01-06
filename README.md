@@ -282,39 +282,42 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 - 🗣️ Inglés técnico conversacional
 
 ---
+## 🧠 Enfoque y Filosofía de Desarrollo
 
-## 🧠 Enfoque de Trabajo
+> **"Medir dos veces, cortar una vez"**  
+> *(Aprendido en 15 años como carpintero — aplica igual al software)*
 
-**Arquitectura primero, código después.**
-
-Mi proceso natural es:
-1. **Entender el problema real** (no el síntoma)
-2. **Diseñar la solución** (diagramas, modelo de datos, flujos)
-3. **Validar con fundamentos** (patrones, buenas prácticas)
+**Mi proceso natural:**
+1. **Entender el problema real** (no el síntoma aparente)
+2. **Diseñar antes de codificar** (arquitectura, modelo de datos, flujos)
+3. **Validar con fundamentos** (patrones, no solo "funcionó en tutorial")
 4. **Implementar con propósito** (código que resuelve, no que rellena)
 
-No soy un "picador de código" que resuelve tickets sin contexto.   
-Soy un **orquestador de soluciones** que necesita entender el **por qué** antes del **cómo**.
+### Sobre el uso de IA
 
-**En un equipo ideal:**
-- Preguntaré el contexto antes de proponer (evito soluciones apresuradas)
+Uso herramientas como Gemini, Cursor y Copilot para **acelerar implementación repetitiva** 
+(controllers, DTOs, boilerplate).  
+
+Pero las **decisiones arquitectónicas, el diseño de datos y la lógica de negocio son mías.**  
+La IA escribe código;  yo diseño el sistema.
+
+### Mis principios
+
+1. **Simplicidad radical:**  Si no puedo explicarlo en 2 frases, está mal diseñado
+2. **Documentación como código:**  Un README claro ahorra 100 mensajes de Slack
+3. **Criterio sobre impulso:**  Mejor preguntar dos veces que construir la solución equivocada
+4. **El tiempo es la moneda:**  Automatizar lo repetitivo, pensar lo estratégico
+
+### En un equipo
+
+- Preguntaré contexto antes de proponer (evito soluciones apresuradas)
 - Documentaré decisiones (para el equipo futuro, incluyéndome)
 - Buscaré feedback temprano (validar dirección antes de invertir tiempo)
 - Ejecutaré con fundamento (basado en arquitectura, no en "vibes")
 
 ---
 
-## 💡 Filosofía de Desarrollo
-
-> **"Orquestar es tan valioso como codificar"**
-
-Creo que entender el **problema completo**, diseñar la **arquitectura adecuada** y **documentar decisiones** es tan importante como escribir código elegante.
-
-### Mis Principios: 
-1. **Simplicidad radical**:  Si no puedo explicarlo en 2 frases, está mal diseñado
-2. **Documentación como código**: Un README bien escrito ahorra 100 mensajes de Slack
-3. **Criterio sobre impulso**: Prefiero preguntar dos veces antes de construir la solución equivocada
-4. **El tiempo es la moneda**: Automatizar lo repetitivo, pensar lo estratégico
+>*Soy estudiante. Cometo errores. Aprendo de ellos. Documento para no repetirlos.*
 
 ---
 ## 📊 GitHub Analytics
