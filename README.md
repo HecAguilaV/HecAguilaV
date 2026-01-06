@@ -43,64 +43,7 @@
 
 ---
 
-## 💼 Proyecto Destacado
-
-<table>
-<tr>
-<td width="80">
-<a href="https://github.com/HecAguilaV/SIGA">
-<img src="https://github.com/HecAguilaV/SIGA/blob/main/docs/brand/Logo_SIGA.png? raw=true" width="70" alt="SIGA Logo"/>
-</a>
-</td>
-<td>
-
-## SIGA
-
-**Sistema Inteligente de Gestión de Activos** - Ecosistema completo de gestión empresarial para PYMEs
-
-</td>
-</tr>
-</table>
-
-### El Problema
-Las PYMEs chilenas sufren **parálisis operativa**:  sistemas complejos, planillas frágiles, y pérdida del recurso más valioso: **el tiempo**.  Los ERPs tradicionales no piensan en el dueño multirol que gestiona todo.
-
-### La Solución
-Ecosistema multi-plataforma con asistente IA conversacional que permite gestionar inventarios, ventas y operaciones desde cualquier dispositivo.
-
-### Stack Tecnológico
-
-| Capa | Tecnología |
-|:-----|:-----------|
-| 🔙 **Backend** | Kotlin + Spring Boot + PostgreSQL |
-| 🌐 **WebApp Operativa** | Svelte + Bulma CSS + Vite |
-| 🎨 **Portal Comercial** | React + Bootstrap + Vite |
-| 📱 **App Móvil** | Kotlin + Jetpack Compose (Android) |
-| 🤖 **IA** | Google Gemini API |
-| 🚀 **Deploy** | Railway (Backend) + Vercel (Frontend) |
-
-### Arquitectura
-- ✅ **Multi-tenancy**:  Separación de datos por empresa
-- ✅ **API REST** con JWT + Spring Security
-- ✅ **SSO**:  Flujo de autenticación único entre apps
-- ✅ **Online-first**: Sincronización en tiempo real móvil ↔ web
-- ✅ **Asistente IA**: Gemini para consultas en lenguaje natural
-
-📂 **Repositorios del Ecosistema:**
-- 📋 [SIGA](https://github.com/HecAguilaV/SIGA) - Documentación y arquitectura
-- ⚙️ [SIGA_BACKEND](https://github.com/HecAguilaV/SIGA_BACKEND) - API REST + Swagger
-- 💻 [SIGA_WEBAPP](https://github.com/HecAguilaV/SIGA_WEBAPP) - Aplicación operativa
-- 🌍 [SIGA-WEBCOMERCIAL](https://github.com/HecAguilaV/SIGA-WEBCOMERCIAL) - Landing + Suscripciones
-- 📱 [SIGA_APPMOVIL](https://github.com/HecAguilaV/SIGA_APPMOVIL) - App Android nativa
-
-🔗 **En Producción:**
-- [API Backend + Swagger UI](https://siga-backend-production.up.railway.app/swagger-ui/index.html)
-- [Portal Comercial](https://siga-webcomercial.vercel.app)
-- [Aplicación Operativa](https://siga-webapp.vercel.app)
-
----
-
-## 🧪 Otros Proyectos
+## 🧪 Proyectos
 
 <table>
 <tr>
@@ -224,6 +167,15 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 
 ---
 
+### 🚀 Proyecto en Desarrollo
+
+Actualmente trabajando en una solución de gestión empresarial con IA conversacional 
+para PYMEs chilenas.    
+
+**Stack:**  Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
+**Features:**  Multi-tenancy, asistente IA, sincronización móvil-web
+
+---
 
 ## Competencias Clave
 
