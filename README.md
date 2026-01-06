@@ -125,6 +125,16 @@
 
 ---
 
+### 🚀 Proyecto en Desarrollo
+
+Actualmente trabajando en una solución de gestión empresarial con IA conversacional 
+para PYMEs chilenas.    
+
+**Stack:**  Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
+**Features:**  Multi-tenancy, asistente IA, sincronización móvil-web
+
+---
+
 ## 🛠️ Stack Tecnológico
 
 ### Lenguajes
@@ -164,16 +174,6 @@
 ### IA & APIs
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 ![API. Bible](https://img.shields.io/badge/API.Bible-4A4A4A?style=for-the-badge&logo=readme&logoColor=white)
-
----
-
-### 🚀 Proyecto en Desarrollo
-
-Actualmente trabajando en una solución de gestión empresarial con IA conversacional 
-para PYMEs chilenas.    
-
-**Stack:**  Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
-**Features:**  Multi-tenancy, asistente IA, sincronización móvil-web
 
 ---
 
