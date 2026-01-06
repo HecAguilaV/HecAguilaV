@@ -95,7 +95,7 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 
 🔗 **En Producción:**
 - [API Backend + Swagger UI](https://siga-backend-production.up.railway.app/swagger-ui/index.html)
-- [Portal Comercial](https://siga-webcomercial. vercel.app)
+- [Portal Comercial](https://siga-webcomercial.vercel.app)
 - [Aplicación Operativa](https://siga-webapp.vercel.app)
 
 ---
