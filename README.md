@@ -27,21 +27,23 @@
 | **Estado actual** | Tercer año de Ingeniería en Informática (Mención Ciencia de Datos) |
 | **Objetivo** | Posición Trainee/Junior Developer |
 | **Aprendiendo** | Kotlin Multiplatform, Python, Machine Learning, Arquitectura de Software<br/>De todo un poco, con la convicción de especializarme para aportar mayor valor |
-| **Certificaciones** | • Generative AI Professional Certificate (GAIPC) - Certiproof<br/>• Python Programming Fundamentals |
+| **Certificaciones** | • Generative AI Professional Certification - GAIPC™ - Certiproof<br/>• Python Essentials 1 - Cisco |
 
 <div align="center">
   <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url">
     <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob" 
-         alt="Generative AI Professional Certificate - GAIPC" 
+         alt="Generative AI Professional Certification - GAIPC™" 
          width="110"/></a>
   
   <a href="https://www.credly.com/badges/5aa5ca49-85b1-4ae0-8b04-c60ab194699f/public_url">
     <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
-         alt="Python Programming Fundamentals" 
+         alt="Python Essentials 1" 
          width="110"/></a>
 </div>
 
 ---
+
+## 💼 Proyecto Destacado
 
 <table>
 <tr>
@@ -52,7 +54,7 @@
 </td>
 <td>
 
-## 💼 Proyecto Destacado:  SIGA
+## SIGA
 
 **Sistema Inteligente de Gestión de Activos** - Ecosistema completo de gestión empresarial para PYMEs
 
@@ -196,10 +198,12 @@ Ecosistema multi-plataforma con asistente IA conversacional que permite gestiona
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
 ### Data & ML
+![Kedro](https://img.shields.io/badge/Kedro-FFC900?style=for-the-badge&logo=kedro&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
 
 ### Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -399,9 +403,15 @@ Estoy buscando oportunidades como **Trainee/Junior Developer** donde pueda aport
 - Feedback técnico continuo (estoy aprendiendo, necesito guía)
 - Espacio para preguntar (prefiero validar antes que equivocarme a escala)
 
-📧 **Email**:  hdaguila@gmail.com  
-💼 **LinkedIn**: [/in/hecaguilav](https://www.linkedin.com/in/hecaguilav)  
-🏆 **Credly**: [Ver Certificaciones](https://www.credly.com/users/hecaguilav)
+---
+  <p>
+    <a href="https://www.linkedin.com/in/hecaguilav">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></br>
+    <a href="mailto:hdaguila@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></br>
+    <a href="https://www.credly.com/users/hecaguilav">
+      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+  </p>
 
 ---
 
