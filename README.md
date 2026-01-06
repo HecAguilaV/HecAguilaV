@@ -1,7 +1,6 @@
 <div align="center">
   <h1>Hola, soy Héctor Aguila</h1>
-  <p><code>hector@macbook ~ %</code> <em>Un Soñador con Poca RAM</em> 💻</p>
-  
+  <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
   <p>
     <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Ciencia de Datos<br/>
     De carpintero a código • 41 años • Puerto Montt, Chile 🇨🇱
@@ -406,10 +405,12 @@ Estoy buscando oportunidades como **Trainee/Junior Developer** donde pueda aport
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=HecAguilaV&color=blue&style=flat-square&label=Visitas+al+Perfil" alt="Profile views" />
-  
+<div align="center">  
   <p><em>"El código es temporal, el aprendizaje es permanente"</em></p>
-  
-  <p><code>hector@macbook ~ %</code> <strong>Un Soñador con Poca RAM</strong> 💻</p>
+  <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
+<p>
+  <a href="https://github.com/HecAguilaV">
+    <img src="https://img.shields.io/badge/GitHub-HecAguilaV-181717?style=flat&logo=github" alt="GitHub"/>
+  </a>
+</p>
 </div>
