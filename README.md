@@ -2,7 +2,7 @@
   <h1>Hola, soy Héctor Aguila</h1>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
   <p>
-    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Ciencia de Datos<br/>
+    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software,pero con miras a la Ciencia de Datos<br/>
     De carpintero a código • 41 años • Puerto Montt, Chile 🇨🇱
   </p>
 
