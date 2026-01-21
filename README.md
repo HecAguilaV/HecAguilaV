@@ -2,11 +2,10 @@
   <h1>Hola, soy Héctor Aguila</h1>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
   <p>
-    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software,pero con miras a la Ciencia de Datos<br/>
+    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software, con proyección a Ciencia de Datos<br/>
     De carpintero a código • 41 años • Puerto Montt, Chile 🇨🇱
   </p>
 
-  
   <p>
     <a href="https://www.linkedin.com/in/hecaguilav">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -18,23 +17,23 @@
 </div>
 
 ---
+
 ## Sobre Mí
 
 ### `$ whoami`
 
 | | |
 |:---|:---|
-| **Estado actual** | Tercer año de Ingeniería en Informática (Mención Ciencia de Datos) |
-| **Objetivo** | Posición Trainee/Junior Developer |
-| **Aprendiendo** | Kotlin Multiplatform, Python, Machine Learning, Arquitectura de Software<br/>De todo un poco, con la convicción de especializarme para aportar mayor valor |
-| **Certificaciones** | • Generative AI Professional Certification - GAIPC™ - Certiproof<br/>• Python Essentials 1 - Cisco |
+| **Estado actual** | Tercer año de Ingeniería en Informática (Mención en Desarrollo de Software) |
+| **Objetivo** | Posición Trainee / Junior Developer |
+| **Aprendiendo** | Kotlin Multiplatform, Backend, Data Science y ML<br/>Exploración amplia con intención clara de especialización |
+| **Certificaciones** | • Generative AI Professional Certification – GAIPC™ – Certiproof<br/>• Python Essentials 1 – Cisco |
 
 <div align="center">
   <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url">
     <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob" 
          alt="Generative AI Professional Certification - GAIPC™" 
          width="110"/></a>
-  
   <a href="https://www.credly.com/badges/5aa5ca49-85b1-4ae0-8b04-c60ab194699f/public_url">
     <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
          alt="Python Essentials 1" 
@@ -43,7 +42,7 @@
 
 ---
 
-## 🧪 Proyectos
+## Proyectos
 
 <table>
 <tr>
@@ -56,34 +55,59 @@
 
 ## [El Arca](https://github.com/HecAguilaV/El_Arca)
 
-**Biblioteca Digital Teológica** - Plataforma de estudio bíblico con IA
+**Biblioteca Digital Teológica** — Plataforma de estudio bíblico con IA
 
 </td>
 </tr>
 </table>
 
-**Problema:** Necesidad de una herramienta de estudio teológico personal que integre recursos digitales, notas personales y asistencia de IA en un solo lugar.  
+**Problema:** Centralizar estudio teológico personal, notas, PDFs y asistencia inteligente en un solo entorno.  
 
-**Solución:** SPA con autenticación social, gestión de biblioteca PDF, notas con Markdown y asistente IA contextual. 
+**Solución:** SPA con autenticación social, biblioteca digital y asistente IA contextual.
 
 **Stack:**
 - **Frontend:** Svelte + TailwindCSS + Vite
-- **Backend:** Python (FastAPI) + ChromaDB (RAG/Vector Search)
-- **Base de Datos:** SQLite (desarrollo) + PostgreSQL (producción)
-- **Deploy:** Vercel (Frontend) + Render (Backend)
+- **Backend:** Python (FastAPI) + ChromaDB (RAG)
+- **Base de Datos:** SQLite (dev) + PostgreSQL (prod)
+- **Deploy:** Vercel + Render
 
 **Features:**
-- Autenticación con Google (OAuth)
-- Gestión de biblioteca PDF desde Google Drive
-- Notas personales con editor Markdown
-- Asistente IA teológico con personalidades (Erudito, Neopuritano, Bautista)
-- Búsqueda semántica con RAG (Retrieval-Augmented Generation)
+- Autenticación OAuth (Google)
+- Gestión de biblioteca PDF
+- Notas con Markdown
+- Asistente IA con perfiles teológicos
+- Búsqueda semántica (RAG)
 
-**Integraciones:**
-- **API.Bible** - American Bible Society (textos bíblicos)
-- **Google Gemini API** - Asistente conversacional IA
-- **Google Drive API** - Carga de archivos PDF personales
-- **Google OAuth** - Autenticación y gestión de usuarios
+---
+
+<table>
+<tr>
+<td width="80">
+<a href="https://github.com/HecAguilaV/VozdeCristal-Web">
+<img src="https://raw.githubusercontent.com/HecAguilaV/VozdeCristal-Web/main/public/logo.svg" width="70" alt="Voz de Cristal Logo"/>
+</a>
+</td>
+<td>
+
+## [Voz de Cristal](https://github.com/HecAguilaV/VozdeCristal-Web)
+
+**Plataforma de análisis y acompañamiento comunicacional** — voz, claridad y criterio
+
+</td>
+</tr>
+</table>
+
+**Problema:** Falta de herramientas que ayuden a analizar y mejorar la comunicación verbal desde una perspectiva técnica y estructural.  
+
+**Solución:** Aplicación web orientada al análisis de voz, claridad discursiva y retroalimentación asistida por IA.
+
+**Stack:**
+- **Frontend:** Svelte + TailwindCSS
+- **Backend:** Python (FastAPI)
+- **IA:** Gemini API
+- **Infraestructura:** Docker
+
+**Estado:** En evolución continua — foco en diseño del dominio y validación conceptual.
 
 ---
 
@@ -98,284 +122,64 @@
 
 ## [ML Análisis Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)
 
-**Análisis del Mercado Tech Chileno/Global** - Machine Learning aplicado a encuestas de StackOverflow y JetBrains
+**Análisis del Mercado Tech** — ML aplicado a datos reales
 
 </td>
 </tr>
 </table>
 
-**Problema:** ¿En qué tecnologías debería enfocarme como desarrollador novato para entrar al mercado laboral? 
+**Problema:** ¿En qué tecnologías enfocarse para entrar al mercado como desarrollador junior?  
 
-**Solución:** Pipeline de análisis de datos con visualizaciones interactivas sobre: 
-- Evolución de lenguajes y frameworks (2019-2025)
-- Salarios por stack tecnológico y país
-- Impacto de IA en el desarrollo de software (2023-2025)
-- Recomendaciones para nuevos desarrolladores
+**Solución:** Pipeline de análisis y visualización basado en encuestas StackOverflow y JetBrains.
 
 **Stack:**
-- **Procesamiento:** Python + Pandas + NumPy + Scikit-learn
-- **Orquestación:** Apache Airflow + DVC (versionado de datos)
-- **Visualización:** Plotly + Matplotlib + Jupyter Notebooks
-- **Infraestructura:** Docker + Docker Compose
+- **Data:** Pandas, NumPy, Scikit-learn
+- **Orquestación:** Airflow + DVC
+- **Visualización:** Plotly, Matplotlib
+- **Infra:** Docker
 
-**Hallazgos Clave:**
-- 🤖 65% de developers usan IA en su flujo de trabajo (2024)
-- 📈 Python mantiene liderazgo en Data Science + Backend
-- 💰 Stack con mayor ROI para juniors: JavaScript Full Stack + Cloud básico
-
----
-
-### 🚀 Proyecto en Desarrollo
-
-Actualmente trabajando en una solución de gestión empresarial con IA conversacional 
-para PYMEs chilenas.    
-
-**Stack:**  Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
-**Features:**  Multi-tenancy, asistente IA, sincronización móvil-web
+**Hallazgos:**
+- Python mantiene liderazgo transversal
+- Uso de IA supera el 60% en workflows
+- Full Stack JS + Cloud básico ofrece alto ROI junior
 
 ---
 
-## 🛠️ Stack Tecnológico
+### Proyecto en Desarrollo
 
-### Lenguajes
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+Solución de **gestión empresarial con IA conversacional** para PYMEs chilenas.
 
-### Frameworks & Librerías
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-
-### Data & ML
-![Kedro](https://img.shields.io/badge/Kedro-FFC900?style=for-the-badge&logo=kedro&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### IA & APIs
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![API. Bible](https://img.shields.io/badge/API.Bible-4A4A4A?style=for-the-badge&logo=readme&logoColor=white)
+**Stack:** Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
+**Foco:** multi-tenancy, arquitectura limpia, integración móvil-web
 
 ---
 
-## Competencias Clave
+## Enfoque y Filosofía de Desarrollo
 
-### Arquitectura de Software
-- **Modelo 4+1**: Vistas lógica, proceso, desarrollo, física
-- **Multi-tenancy**: Aislamiento de datos por organización
-- **API-first design**: REST + OpenAPI/Swagger
-- **Patrones**: Repository, Service Layer, DTO
+> **“Medir dos veces, cortar una vez”**
 
-### Backend Development
-- **API REST**: Spring Boot + Ktor
-- **Autenticación**:  JWT + Spring Security
-- **ORM**: JPA/Hibernate
-- **Bases de Datos**:  Oracle Database & PL/SQL
+Diseño antes de código.  
+Fundamentos antes de frameworks.  
+Documentar para no repetir errores.
 
-### Frontend Development
-- **SPA**: Svelte (reactivity + stores)
-- **Responsive Design**: Tailwind + Bulma
-- **Integración**:  Consumo de APIs REST
-- **Estado**: State management
-
-### Mobile Development
-- **Android Nativo**:  Jetpack Compose
-- **Arquitectura**: MVVM + Clean Architecture
-- **Networking**:  Retrofit (consumo API)
-- **Sincronización**: Online-first + tiempo real
-
-### Data Science
-- **ETL Pipelines**: Pandas + Airflow
-- **Análisis Exploratorio**: EDA con Jupyter
-- **Visualización**: Plotly, Matplotlib
-- **Machine Learning**: Scikit-learn (clasificación, clustering)
-
-### DevOps
-- **Contenedores**: Docker + Docker Compose
-- **CI/CD**: GitHub Actions
-- **Deploy**: Railway + Render + Vercel
-- **Versionado**: Git + DVC (datos)
+Uso IA para acelerar lo repetitivo, **no para decidir arquitectura**.  
+La IA escribe código; **yo diseño sistemas**.
 
 ---
 
-## 🎓 Formación & Certificaciones
+## Conectemos
 
-- 🎓 **Ingeniería en Informática** - Mención Ciencia de Datos (En curso - 3er año)
-- 🏆 **Generative AI Professional Certificate (GAIPC)** - Certiproof
-- 📜 **Python Programming Fundamentals** - Certificado de finalización
+Busco oportunidades como **Trainee / Junior Developer** donde pueda crecer, aportar criterio y aprender con fundamento.
 
----
+<a href="mailto:hdaguila@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 🌱 Actualmente Aprendiendo
-
-- 🗄️ Oracle Database:  PL/SQL, procedures, triggers, packages
-- 🔄 Kotlin Multiplatform (KMM) para compartir lógica iOS/Android
-- 🧪 Testing: JUnit + Mockito (backend) y Jest (frontend)
-- 📊 Observabilidad: Logs estructurados + métricas básicas
-- 🗣️ Inglés técnico conversacional
-
----
-## 🧠 Enfoque y Filosofía de Desarrollo
-
-> **"Medir dos veces, cortar una vez"**  
-> *(Aprendido en 15 años como carpintero — aplica igual al software)*
-
-**Mi proceso natural:**
-1. **Entender el problema real** (no el síntoma aparente)
-2. **Diseñar antes de codificar** (arquitectura, modelo de datos, flujos)
-3. **Validar con fundamentos** (patrones, no solo "funcionó en tutorial")
-4. **Implementar con propósito** (código que resuelve, no que rellena)
-
-### Sobre el uso de IA
-
-Uso herramientas como Gemini, Cursor y Copilot para **acelerar implementación repetitiva** 
-(controllers, DTOs, boilerplate).  
-
-Pero las **decisiones arquitectónicas, el diseño de datos y la lógica de negocio son mías.**  
-La IA escribe código;  yo diseño el sistema.
-
-### Mis principios
-
-1. **Simplicidad radical:**  Si no puedo explicarlo en 2 frases, está mal diseñado
-2. **Documentación como código:**  Un README claro ahorra 100 mensajes de Slack
-3. **Criterio sobre impulso:**  Mejor preguntar dos veces que construir la solución equivocada
-4. **El tiempo es la moneda:**  Automatizar lo repetitivo, pensar lo estratégico
-
-### En un equipo
-
-- Preguntaré contexto antes de proponer (evito soluciones apresuradas)
-- Documentaré decisiones (para el equipo futuro, incluyéndome)
-- Buscaré feedback temprano (validar dirección antes de invertir tiempo)
-- Ejecutaré con fundamento (basado en arquitectura, no en "vibes")
+<a href="https://www.linkedin.com/in/hecaguilav">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ---
 
->*Soy estudiante. Cometo errores. Aprendo de ellos. Documento para no repetirlos.*
-
----
-## 📊 GitHub Analytics
-
-### Lenguajes y tecnologías principales
-
-<table align="center">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-  </tr>
-</table>
-
-### Actividad
-
-<table align="center">
-  <tr>
-    <td><b>Contribuciones totales</b></td>
-    <td>927 (mayo 2024 - presente)</td>
-  </tr>
-  <tr>
-    <td><b>Commits</b></td>
-    <td>854+</td>
-  </tr>
-  <tr>
-    <td><b>Repositorios públicos</b></td>
-    <td>12+ (ecosistema multi-repo)</td>
-  </tr>
-  <tr>
-    <td><b>Licencias usadas</b></td>
-    <td>MIT License</td>
-  </tr>
-  <tr>
-    <td><b>Racha actual</b></td>
-    <td>7 días</td>
-  </tr>
-</table>
-
----
-
-## 🤝 Conectemos
-
-Estoy buscando oportunidades como **Trainee/Junior Developer** donde pueda aportar mi visión de arquitectura, capacidad de aprendizaje y compromiso con entregar valor real.
-
-**¿Por qué contratarme?**
-- ✅ **Madurez profesional**:  15+ años en rubros operativos (carpintería, construcción)
-- ✅ **Capacidad de ejecución autónoma**: Proyectos completos desplegados sin supervisión técnica
-- ✅ **Mentalidad de aprendizaje**: GitHub es mi portafolio de errores y mejoras
-- ✅ **Enfoque en fundamentos**: Arquitectura y patrones antes que frameworks de moda
-- ✅ **Comunicación clara**: La documentación previene el caos futuro
-
-**Lo que necesito en un equipo:**
-- Contexto antes de tareas (entender el "por qué")
-- Feedback técnico continuo (estoy aprendiendo, necesito guía)
-- Espacio para preguntar (prefiero validar antes que equivocarme a escala)
-
----
-  <p>
-    <a href="https://www.linkedin.com/in/hecaguilav">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a></br>
-    <a href="mailto:hdaguila@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a></br>
-    <a href="https://www.credly.com/users/hecaguilav">
-      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
-  </p>
-
----
-
-<div align="center">  
+<div align="center">
   <p><em>"El código es temporal, el aprendizaje es permanente"</em></p>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
-<p>
-  <a href="https://github.com/HecAguilaV">
-    <img src="https://img.shields.io/badge/GitHub-HecAguilaV-181717?style=flat&logo=github" alt="GitHub"/>
-  </a>
-</p>
 </div>
