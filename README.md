@@ -61,6 +61,8 @@
 </tr>
 </table>
 
+[🌐 Ver El Arca en vivo](https://el-arca.vercel.app/)
+
 **Problema:** Centralizar estudio teológico personal, notas, PDFs y asistencia inteligente en un solo entorno.  
 
 **Solución:** SPA con autenticación social, biblioteca digital y asistente IA contextual.
@@ -84,36 +86,37 @@
 <tr>
 <td width="80">
 <a href="https://github.com/HecAguilaV/VozdeCristal-Web">
-<img src="https://raw.githubusercontent.com/HecAguilaV/VozdeCristal-Web/main/public/logo.svg" width="70" alt="Voz de Cristal Logo"/>
+<img src="https://raw.githubusercontent.com/HecAguilaV/VozdeCristal-Web/main/public/assets/img/logoVC.png" width="70" alt="Voz de Cristal Logo"/>
 </a>
 </td>
 <td>
 
 ## [Voz de Cristal](https://github.com/HecAguilaV/VozdeCristal-Web)
 
-**Plataforma de análisis y acompañamiento comunicacional** — voz, claridad y criterio
+**Landing institucional** — Iniciativa de protección infantil y autonomía escolar
 
 </td>
 </tr>
 </table>
 
-**Problema:** Falta de herramientas que ayuden a analizar y mejorar la comunicación verbal desde una perspectiva técnica y estructural.  
+[🌐 Ver Voz de Cristal en vivo](https://vozdecristal.vercel.app/)
 
-**Solución:** Aplicación web orientada al análisis de voz, claridad discursiva y retroalimentación asistida por IA.
+**Propósito:** Presentar y validar socialmente un proyecto orientado a la protección real y ética de la infancia en contextos educativos.
+
+**Características:**
+- Diseño profesional y comunicación sobria
+- Encuesta social y dashboard de resultados en tiempo real
+- Enfoque en privacidad, usabilidad y claridad
 
 **Stack:**
 - **Frontend:** Svelte + TailwindCSS
-- **Backend:** Python (FastAPI)
-- **IA:** Gemini API
-- **Infraestructura:** Docker
-
-**Estado:** En evolución continua — foco en diseño del dominio y validación conceptual.
+- **Deploy:** Vercel
 
 ---
 
 <table>
 <tr>
-<td width="80" align="center">
+<td width="80">
 <a href="https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev">
 <img src="https://img.shields.io/badge/ML-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" width="70" alt="ML Analysis"/>
 </a>
@@ -122,35 +125,71 @@
 
 ## [ML Análisis Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)
 
-**Análisis del Mercado Tech** — ML aplicado a datos reales
+**Análisis del mercado tech para desarrolladores** — ML aplicado a datos reales
 
 </td>
 </tr>
 </table>
 
-**Problema:** ¿En qué tecnologías enfocarse para entrar al mercado como desarrollador junior?  
+**Problema:** ¿En qué tecnologías y roles enfocarse para insertarse estratégicamente como desarrollador en el nuevo contexto del mercado digital?
 
-**Solución:** Pipeline de análisis y visualización basado en encuestas StackOverflow y JetBrains.
+**Solución:** Data pipeline completo y análisis visual sobre encuestas Stack Overflow y JetBrains. El proyecto evidencia que tan importante como la elección de stack es la definición de un *rol* profesional adaptado a las nuevas tendencias (“AI vibe”, fullstack, cloud, etc.).
+
+**Estado:**  
+Proyecto desplegado y funcional. Próximamente incorporaré una web app interactiva (con Streamlit o similar) para que la comunidad dev pueda explorar escenarios y tomar decisiones propias basadas en los datos.
 
 **Stack:**
-- **Data:** Pandas, NumPy, Scikit-learn
-- **Orquestación:** Airflow + DVC
+- **ML/Data:** Pandas, NumPy, Scikit-learn
+- **Orquestación:** Airflow, DVC
 - **Visualización:** Plotly, Matplotlib
 - **Infra:** Docker
-
-**Hallazgos:**
-- Python mantiene liderazgo transversal
-- Uso de IA supera el 60% en workflows
-- Full Stack JS + Cloud básico ofrece alto ROI junior
 
 ---
 
 ### Proyecto en Desarrollo
 
-Solución de **gestión empresarial con IA conversacional** para PYMEs chilenas.
+<table>
+<tr>
+<td width="80">
+<a href="https://github.com/HecAguilaV/SIGA">
+<img src="https://raw.githubusercontent.com/HecAguilaV/SIGA/main/docs/brand/Logo_SIGA.png" width="70" alt="Logo SIGA"/>
+</a>
+</td>
+<td>
 
-**Stack:** Kotlin + Spring Boot, Svelte, PostgreSQL, Gemini API  
-**Foco:** multi-tenancy, arquitectura limpia, integración móvil-web
+## [SIGA: Sistema Inteligente de Gestión de Activos](https://github.com/HecAguilaV/SIGA)
+
+**Ecosistema de gestión empresarial inteligente para PYMEs**  
+Landing operativa, arquitectura multiplataforma y diseño multi-tenancy desde cero.
+
+</td>
+</tr>
+</table>
+
+[🌐 Ver SIGA Landing en vivo](https://siga-webcomercial.vercel.app/)
+
+**Problema:** La gestión de activos y operaciones en las PYMEs suele ser fragmentada, manual y poco eficiente, dificultando la trazabilidad y aumentando el riesgo de errores o detenciones.
+
+**Solución:** Un ecosistema integrado y escalable —landing, web comercial, webapp y app móvil— basado en arquitectura multi-tenancy. Automatiza procesos, centraliza información y utiliza IA conversacional para optimizar la gestión empresarial en múltiples empresas y perfiles de usuario.
+
+**Stack:**
+- **Backend:** Kotlin + Spring Boot (multi-tenancy, migrando por fin de periodo trial Railway)
+- **Frontend WebApp:** Svelte  
+- **Frontend Comercial:** React ([SIGA-WEBCOMERCIAL](https://github.com/HecAguilaV/SIGA-WEBCOMERCIAL))
+- **App móvil:** Kotlin (Android)
+- **Base de Datos:** PostgreSQL
+- **IA:** Gemini API
+- **SSO:** Autenticación unificada entre módulos
+
+**Componentes y rutas clave:**
+- [Base conceptual y estratégica (identidad, modelo, diseño, branding)](https://github.com/HecAguilaV/SIGA)
+- [Web comercial (info/SSO - landing operativa)](https://github.com/HecAguilaV/SIGA-WEBCOMERCIAL) [🌐 Ver online](https://siga-webcomercial.vercel.app/)
+- [WebApp principal (panel de control)](https://github.com/HecAguilaV/SIGA_WEBAPP)
+- [Backend Monolítico (MVP)](https://github.com/HecAguilaV/SIGA_BACKEND)
+- [App móvil (Android)](https://github.com/HecAguilaV/SIGA_APPMOVIL)
+
+- > ℹ️ El primer repo ([SIGA](https://github.com/HecAguilaV/SIGA)) es solo documentación, identidad, estructura de datos, branding, filosofía y análisis del problema. Reúne todos los cimientos del proyecto antes del desarrollo.
+
 
 ---
 
