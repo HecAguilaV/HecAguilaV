@@ -189,6 +189,8 @@ Landing operativa, arquitectura multiplataforma y diseño multi-tenancy desde ce
 - [App móvil (Android)](https://github.com/HecAguilaV/SIGA_APPMOVIL)
 
 - > ℹ️ El primer repo ([SIGA](https://github.com/HecAguilaV/SIGA)) es solo documentación, identidad, estructura de datos, branding, filosofía y análisis del problema. Reúne todos los cimientos del proyecto antes del desarrollo.
+  
+  >PD: El Backend se encuentre en migración de proveedor. 
 
 
 ---
@@ -219,6 +221,5 @@ Busco oportunidades como **Trainee / Junior Developer** donde pueda crecer, apor
 ---
 
 <div align="center">
-  <p><em>"El código es temporal, el aprendizaje es permanente"</em></p>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
 </div>
