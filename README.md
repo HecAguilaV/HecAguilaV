@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HecAguilaV/HecAguilaV/main/assets/Banner%20Definitivo.png"
+       alt="Sigo construyendo – Blueprint to Systems"
+       width="100%" />
+</p>
 <div align="center">
   <h1>Hola, soy Héctor Aguila</h1>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
