@@ -27,17 +27,25 @@
 | **Estado actual** | Tercer año de Ingeniería en Informática (Mención en Desarrollo de Software) |
 | **Objetivo** | Posición Trainee / Junior Developer |
 | **Aprendiendo** | Kotlin Multiplatform, Backend, Data Science y ML<br/>Exploración amplia con intención clara de especialización |
-| **Certificaciones** | • Generative AI Professional Certification – GAIPC™ – Certiproof<br/>• Python Essentials 1 – Cisco |
+| **Certificaciones** | • Microsoft Certified: Azure Fundamentals<br/>• Microsoft Certified: Azure Data Fundamentals</br>• Generative AI Professional Certification – GAIPC™ – Certiprof<br/>• Python Essentials 1 – Cisco |
 
 <div align="center">
+  <a href="https://www.credly.com/badges/3d7b39e8-19b9-4e14-a64c-eecc1bdc9668/public_url">
+    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
+         alt="Microsoft Certified: Azure Fundamentals"
+         height="110"/></a>
+  <a href="https://www.credly.com/badges/796e5b78-d5e4-4139-baaa-cc04011fc358/public_url">
+    <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
+         alt="Microsoft Certified: Azure Data Fundamentals"
+         height="110"/></a>
   <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url">
-    <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob" 
-         alt="Generative AI Professional Certification - GAIPC™" 
-         width="110"/></a>
+    <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob"
+         alt="Generative AI Professional Certification - GAIPC™"
+         height="110"/></a>
   <a href="https://www.credly.com/badges/5aa5ca49-85b1-4ae0-8b04-c60ab194699f/public_url">
-    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" 
-         alt="Python Essentials 1" 
-         width="110"/></a>
+    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
+         alt="Python Essentials 1"
+         height="110"/></a>
 </div>
 
 ---
@@ -190,8 +198,7 @@ Landing operativa, arquitectura multiplataforma y diseño multi-tenancy desde ce
 
 - > ℹ️ El primer repo ([SIGA](https://github.com/HecAguilaV/SIGA)) es solo documentación, identidad, estructura de datos, branding, filosofía y análisis del problema. Reúne todos los cimientos del proyecto antes del desarrollo.
   
-  >PD: El Backend se encuentre en migración de proveedor. 
-
+  >PD: La infraestructura de despliegue del backend se encuentra en proceso de migración.
 
 ---
 
