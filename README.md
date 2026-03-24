@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HecAguilaV/HecAguilaV/main/assets/Banner%20Definitivo.png"
+  <img src="assets/Banner.jpg"
        alt="Sigo construyendo – Blueprint to Systems"
        width="100%" />
 </p>
@@ -7,11 +7,11 @@
   <h1>Hola, soy Héctor Aguila</h1>
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
   <p>
-    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software, con proyección a Ciencia de Datos<br/>
-    De carpintero a código • 41 años • Puerto Montt, Chile 🇨🇱
+    <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software<br/>
+    Interés en Arquitectura de Soluciones & Ciencia de Datos • Santiago de Chile
   </p>
 
-  <p>
+<p>
     <a href="https://www.linkedin.com/in/hecaguilav">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
     <a href="mailto:hdaguila@gmail.com">
@@ -27,211 +27,129 @@
 
 ### `$ whoami`
 
-| | |
-|:---|:---|
-| **Estado actual** | Tercer año de Ingeniería en Informática (Mención en Desarrollo de Software) |
-| **Objetivo** | Posición Trainee / Junior Developer |
-| **Aprendiendo** | Kotlin Multiplatform, Backend, Data Science y ML<br/>Exploración amplia con intención clara de especialización |
-| **Certificaciones** | • Microsoft Certified: Azure Fundamentals<br/>• Microsoft Certified: Azure Data Fundamentals</br>• Generative AI Professional Certification – GAIPC™ – Certiprof<br/>• Python Essentials 1 – Cisco |
+|                         |                                                                                            |
+| :---------------------- | :----------------------------------------------------------------------------------------- |
+| **Estado actual** | Tercer año de Ingeniería en Informática (Mención Desarrollo de Software)               |
+| **Rol Objetivo**  | Desarrollador Junior / Estudiante de Ingeniería / Data Scientist.      |
+| **Aprendiendo**   | Kotlin Multiplatform, Arquitecturas Agénticas (IA), Microservicios, Data Science.         |
+| **Filosofía**    | **"Orden antes que velocidad"**. Marco de Construcción Responsable. |
+
+### Certificaciones & Formación
+
+* **Cloud & Data**: Azure Fundamentals (AZ-900), Azure Data Fundamentals (DP-900), PowerBI (Daxus), Fabric Data Engineer (Código Facilito).
+* **Inteligencia Artificial**: Google AI Professional, Generative AI Professional (GAIPC), "Desarrollo con IA: de 0 a Producción" (BIG School & Brais Moure).
+* **Desarrollo & Ingeniería**: Especialización en Diseño & Arquitectura de Software (U. Alberta - En curso: 1 de 4), Certificación Profesional en Aplicaciones Web (U. New Mexico), Arquitecto de Datos IBM (En curso: 1 de 11), Bootcamp Ingeniero de Datos en Fabric (12 semanas), Python Essentials 1 (Cisco).
+
+---
+
+## Investigación y Pensamiento (IA)
+
+Mi enfoque no es la memorización de sintaxis, sino el **Diseño de Sistemas y la Orquestación Agéntica**. Utilizo la IA como una **Prótesis Cognitiva**, permitiéndome centrarme en la arquitectura mientras delego la ejecución técnica en agentes especializados.
+
+* **Paper Académico**: [Simbiosis Humano-IA como Acelerador de Recuperación Funcional](https://zenodo.org/records/18845510) (Publicado en JAIGP/Zenodo).
+* **Articulo en LinkedIn**: [La pantalla como espejo: externalizar el pensamiento](https://www.linkedin.com/pulse/la-pantalla-como-espejo-externalizar-el-pensamiento-cuando-aguila-3nkxf).
+* **Ensayo Creativo**: Actualmente escribiendo un thriller de ciencia ficción basado en experiencias reales de interacción con IA (1M+ tokens de contexto analizados).
+
+---
+
+## Enfoque en Sistemas Agénticos (Resilient Agentic AI)
+
+Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquitectura robusto con gobernanza y contingencia.
+
+- **Misael: Orquestador con Constitución**: Implementación de agentes con marcos éticos y protocolos de actuación (Directiva Suprema) basados en impacto humano.
+- **Arquitectura Resiliente (Investigación)**: Exploración de **Motores de Fallback (NL2SQL / PL/SQL)** para garantizar la continuidad operativa ante fallos de APIs externas.
+- **Ingeniería de Contexto**: Implementación de RAG (Retrieval-Augmented Generation) y SDDs (System Design Documents) para la orquestación de tareas complejas.
+
+## Ecosistema de Proyectos
+
+### Arquitectura & IA Aplicada
+
+**[UNB: The Unreliable Narrator Benchmark](https://github.com/HecAguilaV/Hackaton_Kaggle/tree/main/Hackaton_Kaggle)**
+
+> **Enfoque**: Benchmark para el Hackaton de **Google DeepMind & Kaggle** ("Measuring Progress Towards AGI"). Evalúa la transición de los LLMs de "Loros Estocásticos" a **Simbiontes Críticos**, midiendo su capacidad para detectar mitomanía e inconsistencias en la interacción.
+
+**[Machine Learning: Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)**
+
+> **Impacto**: Sistema de alta precisión para la predicción salarial y detección de tendencias tecnológicas.
+
+- Implementación de un pipeline MLOps robusto (Kedro, DVC, Docker) que procesa datos de 89K+ desarrolladores. Proyecta una precisión de predicción superior al 90% en modelos de regresión optimizados.
+
+**[Voz de Cristal (IA Ética &amp; TinyML)](https://vozdecristal.vercel.app/)**
+
+> **Enfoque**: Diseño sistémico para la detección temprana de vulneración infantil.
+
+- **Concepto**: Dispositivo ("Caballo de Troya") que utiliza **TinyML** para identificar patrones de riesgo físico en el borde.
+- **Estrategia**: [Dossier Estratégico (Zenodo DOI)](https://doi.org/10.5281/zenodo.18846432).
+  > *Héctor Aguila. (2026). HecAguilaV/VozdeCristal-Estrategia: implementando zenodo. Zenodo.*
+
+**[SIGA (Gestión Empresarial)](https://siga-webcomercial.vercel.app/)**
+
+> **Estado**: Ecosistema en proceso de **Migración de Infraestructura** y Arquitectura (Monorepo/Microservicios).
+
+- Acceso a **[WebApp (Demo)](https://siga-webapp.vercel.app/login)**. En proceso de investigación de **Arquitecturas Resilientes** (Integración de Gemini con Fallback en DB).
+
+### Herramientas & Colaboración
+
+**[ERTC (Estructura Relacional del Trabajo Colectivo)](https://hecaguilav.github.io/ERTC/)**
+
+> **Enfoque**: **Arquitecto Técnico** y Desarrollador para ecosistema colaborativo (Cámara Chilena de IA - CCHIA / Roberto Salas).
+
+- Plataforma asíncrona "Marketplace" con Serverless Functions (Vercel) y Vanilla JS. Protección de tokens y persistencia distribuida.
+
+**[El Arca (Biblioteca Digital &amp; Búsqueda Semántica)](https://el-arca.vercel.app/)**
+
+> **Envergadura**: Gestión de corpus documental con **1,000+ archivos PDF** cargados desde Google Drive.
+
+- Aplicación web funcional para la interacción con una vasta biblioteca teológica. Actualmente en proceso de optimización de **etiquetado semántico y metadatos** para potenciar el pipeline RAG y perfiles de IA.
+
+### Desarrollo Humano & Evolución
+
+**[Lucas: Level 18 (Canvas Game)](#)**
+
+> **Propósito**: Un regalo programado para el cumpleaños 18 de mi hijo. La tecnología como puente de conexión humana.
+
+- Uso avanzado de Vanilla JS Modular, HTML5 Canvas y física de juego tipo platformer (Demo restringida por privacidad).
+
+**[Aplicación Blog (Ruby on Rails)](https://github.com/HecAguilaV/Aplicacion_Blog)**
+
+> **Estado**: Prototipo en desarrollo activo.
+
+- Proyecto enfocado en arquitectura MVC, ActiveRecord y escalabilidad bajo el framework **Ruby on Rails 7**.
+
+---
+
+## Stack Tecnológico
 
 <div align="center">
-  <a href="https://www.credly.com/badges/3d7b39e8-19b9-4e14-a64c-eecc1bdc9668/public_url">
-    <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"
-         alt="Microsoft Certified: Azure Fundamentals"
-         height="110"/></a>
-  <a href="https://www.credly.com/badges/796e5b78-d5e4-4139-baaa-cc04011fc358/public_url">
-    <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png"
-         alt="Microsoft Certified: Azure Data Fundamentals"
-         height="110"/></a>
-  <a href="https://www.credly.com/badges/0450d0bc-538e-403e-be51-d379692fd751/public_url">
-    <img src="https://images.credly.com/size/680x680/images/29c57e47-76c3-48bf-9bb1-ba85a42fad13/blob"
-         alt="Generative AI Professional Certification - GAIPC™"
-         height="110"/></a>
-  <a href="https://www.credly.com/badges/5aa5ca49-85b1-4ae0-8b04-c60ab194699f/public_url">
-    <img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png"
-         alt="Python Essentials 1"
-         height="110"/></a>
+
+| Arquitectura & Infraestructura                                                                                  | Agilidad & IA Generativa                                                                                                     |
+| :-------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
+| ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)                            |
+| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)               | ![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)         |
+| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)   | ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)                            |
+| ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)               | ![LLM Integration](https://img.shields.io/badge/LLM_Integration_(Gemini)-8E75B2?style=flat-square&logo=google&logoColor=white) |
+
 </div>
 
 ---
 
-## Proyectos
+## Marco de Construcción Responsable
 
-<table>
-<tr>
-<td width="80">
-<a href="https://github.com/HecAguilaV/El_Arca">
-<img src="https://raw.githubusercontent.com/HecAguilaV/El_Arca/main/public/LOGO.svg" width="70" alt="El Arca Logo"/>
-</a>
-</td>
-<td>
+Mi toma de decisiones sigue un protocolo estructural de **6 capas de prioridad** que garantiza soluciones éticas y humanas:
 
-## [El Arca](https://github.com/HecAguilaV/El_Arca)
+1. **Ética**: Verdad y responsabilidad antes que funcionalidad.
+2. **Humana**: ¿Qué transformación positiva genera en el usuario? (**Capa Suprema**).
+3. **Cognitiva**: Diseño pedagógico que fomenta la comprensión real.
+4. **Estructural**: Arquitectura sólida antes que maquillaje (UX > UI).
+5. **Técnica**: Código limpio, seguro, mantenible y escalable.
+6. **Proyección**: Visión de sostenibilidad a largo plazo.
 
-**Biblioteca Digital Teológica** — Plataforma de estudio bíblico con IA
-
-</td>
-</tr>
-</table>
-
-[🌐 Ver El Arca en vivo](https://el-arca.vercel.app/)
-
-**Problema:** Centralizar estudio teológico personal, notas, PDFs y asistencia inteligente en un solo entorno.  
-
-**Solución:** SPA con autenticación social, biblioteca digital y asistente IA contextual.
-
-**Stack:**
-- **Frontend:** Svelte + TailwindCSS + Vite
-- **Backend:** Python (FastAPI) + ChromaDB (RAG)
-- **Base de Datos:** SQLite (dev) + PostgreSQL (prod)
-- **Deploy:** Vercel + Render
-
-**Features:**
-- Autenticación OAuth (Google)
-- Gestión de biblioteca PDF
-- Notas con Markdown
-- Asistente IA con perfiles teológicos
-- Búsqueda semántica (RAG)
-
----
-
-<table>
-<tr>
-<td width="80">
-<a href="https://github.com/HecAguilaV/VozdeCristal-Web">
-<img src="https://raw.githubusercontent.com/HecAguilaV/VozdeCristal-Web/main/public/assets/img/logoVC.png" width="70" alt="Voz de Cristal Logo"/>
-</a>
-</td>
-<td>
-
-## [Voz de Cristal](https://github.com/HecAguilaV/VozdeCristal-Web)
-
-**Landing institucional** — Iniciativa de protección infantil y autonomía escolar
-
-</td>
-</tr>
-</table>
-
-[🌐 Ver Voz de Cristal en vivo](https://vozdecristal.vercel.app/)
-
-**Propósito:** Presentar y validar socialmente un proyecto orientado a la protección real y ética de la infancia en contextos educativos.
-
-**Características:**
-- Diseño profesional y comunicación sobria
-- Encuesta social y dashboard de resultados en tiempo real
-- Enfoque en privacidad, usabilidad y claridad
-
-**Stack:**
-- **Frontend:** Svelte + TailwindCSS
-- **Deploy:** Vercel
-
----
-
-<table>
-<tr>
-<td width="80">
-<a href="https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev">
-<img src="https://img.shields.io/badge/ML-Analysis-blue?style=for-the-badge&logo=python&logoColor=white" width="70" alt="ML Analysis"/>
-</a>
-</td>
-<td>
-
-## [ML Análisis Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)
-
-**Análisis del mercado tech para desarrolladores** — ML aplicado a datos reales
-
-</td>
-</tr>
-</table>
-
-**Problema:** ¿En qué tecnologías y roles enfocarse para insertarse estratégicamente como desarrollador en el nuevo contexto del mercado digital?
-
-**Solución:** Data pipeline completo y análisis visual sobre encuestas Stack Overflow y JetBrains. El proyecto evidencia que tan importante como la elección de stack es la definición de un *rol* profesional adaptado a las nuevas tendencias (“AI vibe”, fullstack, cloud, etc.).
-
-**Estado:**  
-Proyecto desplegado y funcional. Próximamente incorporaré una web app interactiva (con Streamlit o similar) para que la comunidad dev pueda explorar escenarios y tomar decisiones propias basadas en los datos.
-
-**Stack:**
-- **ML/Data:** Pandas, NumPy, Scikit-learn
-- **Orquestación:** Airflow, DVC
-- **Visualización:** Plotly, Matplotlib
-- **Infra:** Docker
-
----
-
-### Proyecto en Desarrollo
-
-<table>
-<tr>
-<td width="80">
-<a href="https://github.com/HecAguilaV/SIGA">
-<img src="https://raw.githubusercontent.com/HecAguilaV/SIGA/main/docs/brand/Logo_SIGA.png" width="70" alt="Logo SIGA"/>
-</a>
-</td>
-<td>
-
-## [SIGA: Sistema Inteligente de Gestión de Activos](https://github.com/HecAguilaV/SIGA)
-
-**Ecosistema de gestión empresarial inteligente para PYMEs**  
-Landing operativa, arquitectura multiplataforma y diseño multi-tenancy desde cero.
-
-</td>
-</tr>
-</table>
-
-[🌐 Ver SIGA Landing en vivo](https://siga-webcomercial.vercel.app/)
-
-**Problema:** La gestión de activos y operaciones en las PYMEs suele ser fragmentada, manual y poco eficiente, dificultando la trazabilidad y aumentando el riesgo de errores o detenciones.
-
-**Solución:** Un ecosistema integrado y escalable —landing, web comercial, webapp y app móvil— basado en arquitectura multi-tenancy. Automatiza procesos, centraliza información y utiliza IA conversacional para optimizar la gestión empresarial en múltiples empresas y perfiles de usuario.
-
-**Stack:**
-- **Backend:** Kotlin + Spring Boot (multi-tenancy, migrando por fin de periodo trial Railway)
-- **Frontend WebApp:** Svelte  
-- **Frontend Comercial:** React ([SIGA-WEBCOMERCIAL](https://github.com/HecAguilaV/SIGA-WEBCOMERCIAL))
-- **App móvil:** Kotlin (Android)
-- **Base de Datos:** PostgreSQL
-- **IA:** Gemini API
-- **SSO:** Autenticación unificada entre módulos
-
-**Componentes y rutas clave:**
-- [Base conceptual y estratégica (identidad, modelo, diseño, branding)](https://github.com/HecAguilaV/SIGA)
-- [Web comercial (info/SSO - landing operativa)](https://github.com/HecAguilaV/SIGA-WEBCOMERCIAL) [🌐 Ver online](https://siga-webcomercial.vercel.app/)
-- [WebApp principal (panel de control)](https://github.com/HecAguilaV/SIGA_WEBAPP)
-- [Backend Monolítico (MVP)](https://github.com/HecAguilaV/SIGA_BACKEND)
-- [App móvil (Android)](https://github.com/HecAguilaV/SIGA_APPMOVIL)
-
-- > ℹ️ El primer repo ([SIGA](https://github.com/HecAguilaV/SIGA)) es solo documentación, identidad, estructura de datos, branding, filosofía y análisis del problema. Reúne todos los cimientos del proyecto antes del desarrollo.
-  
-  >PD: La infraestructura de despliegue del backend se encuentra en proceso de migración.
-
----
-
-## Enfoque y Filosofía de Desarrollo
-
-> **“Medir dos veces, cortar una vez”**
-
-Diseño antes de código.  
-Fundamentos antes de frameworks.  
-Documentar para no repetir errores.
-
-Uso IA para acelerar lo repetitivo, **no para decidir arquitectura**.  
-La IA escribe código; **yo diseño sistemas**.
-
----
-
-## Conectemos
-
-Busco oportunidades como **Trainee / Junior Developer** donde pueda crecer, aportar criterio y aprender con fundamento.
-
-<a href="mailto:hdaguila@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-<a href="https://www.linkedin.com/in/hecaguilav">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+> **"Orden antes que velocidad. Arquitectura antes que maquillaje."**
+> Diseño la arquitectura y la lógica estructural bajo mi Marco Personal de Trabajo; la IA actúa como mi brazo ejecutor y herramienta de orden. Mi valor reside en la **Validación Crítica** y la **Gobernanza de Agentes**.
 
 ---
 
 <div align="center">
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
+  <p><em>"Caminante, no hay camino, se hace camino al andar."</em></p>
 </div>
