@@ -104,7 +104,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 - Aplicación web funcional para la interacción con una vasta biblioteca teológica. Actualmente en proceso de optimización de **etiquetado semántico y metadatos** para potenciar el pipeline RAG y perfiles de IA.
 
-### Desarrollo Humano & Evolución
+### Prototipado & Lógica Esencial
 
 **[Lucas: Level 18 (Canvas Game)](#)**
 
@@ -116,7 +116,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 > **Estado**: Prototipo en desarrollo activo.
 
-- Proyecto enfocado en arquitectura MVC, ActiveRecord y escalabilidad bajo el framework **Ruby on Rails 7**.
+- Proyecto enfocado en arquitectura **MVC**, **ActiveRecord** y escalabilidad bajo el framework **Ruby on Rails 7**. Ingeniería de backend aplicada a la gestión de contenidos.
 
 ---
 
