@@ -70,6 +70,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 **[UNB: The Unreliable Narrator Benchmark](https://github.com/HecAguilaV/Hackaton_Kaggle/tree/main/Hackaton_Kaggle)**
 
+> **Estado**: En fase de diseño y desarrollo activo (Experimental).
 > **Enfoque**: Benchmark para el Hackaton de **Google DeepMind & Kaggle** ("Measuring Progress Towards AGI"). Evalúa la transición de los LLMs de "Loros Estocásticos" a **Simbiontes Críticos**, midiendo su capacidad para detectar mitomanía e inconsistencias en la interacción.
 
 **[Machine Learning: Ecosistema Dev](https://github.com/HecAguilaV/ML_Analisis_Ecosistema_Dev)**
