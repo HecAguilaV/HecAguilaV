@@ -8,7 +8,7 @@
   <p><code>> Un Soñador con Poca RAM 👨🏻‍💻</code></p>
   <p>
     <strong>Estudiante de Ingeniería en Informática</strong> • Mención en Desarrollo de Software<br/>
-    Interés en Arquitectura de Soluciones & Ciencia de Datos • Santiago de Chile
+    Interés en Arquitectura de Soluciones & Ciencia de Datos • Puerto Montt, Chile
   </p>
 
 <p>
