@@ -42,10 +42,10 @@
 
 ---
 
-## Investigación y Pensamiento (IA)
+## Desarrollo y Experimentación con IA
 
 <p align="justify">
-Mi enfoque no es la memorización de sintaxis, sino el <strong>Diseño de Sistemas y la Orquestación Agéntica</strong>. Me motiva la arquitectura y la ingeniería en su definición más esencial: diseñar soluciones, orquestar cómo interactúan los componentes y guiar a las máquinas para ejecutar visiones técnicas y humanas. Sin ser un "monkeycoder", mi idea es siempre <strong>construir con propósito</strong>, utilizando la IA como una <strong>Prótesis Cognitiva</strong> que me permite centrarme en la estructura mientras delego la ejecución técnica en agentes especializados.
+Mi enfoque se centra en el <strong>Diseño de Sistemas</strong> y el uso estratégico de la IA para optimizar el desarrollo. Me apasiona proyectar cómo interactúan los componentes de una solución antes de pasar a la ejecución. Utilizo herramientas de IA para asistir en la codificación y automatizar procesos técnicos, lo que me permite concentrarme en la solidez de la arquitectura y en <strong>construir con propósito</strong>.
 </p>
 
 * **Paper Académico**: [Simbiosis Humano-IA como Acelerador de Recuperación Funcional](https://zenodo.org/records/18845510) (Publicado en JAIGP/Zenodo).
@@ -54,11 +54,11 @@ Mi enfoque no es la memorización de sintaxis, sino el <strong>Diseño de Sistem
 
 ---
 
-## Enfoque en Sistemas Agénticos (Resilient Agentic AI)
+## Desarrollo de Soluciones Resilientes
 
 Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquitectura robusto con gobernanza y contingencia.
 
-- **Misael: Orquestador con Constitución**: Implementación de agentes con marcos éticos y protocolos de actuación (Directiva Suprema) basados en impacto humano.
+- **Misael: Agente con Protocolos Éticos**: Implementación de automatizaciones asistidas por IA con marcos éticos y protocolos de actuación basados en impacto humano.
 - **Arquitectura Resiliente (Investigación)**: Exploración de **Motores de Fallback (NL2SQL / PL/SQL)** para garantizar la continuidad operativa ante fallos de APIs externas.
 - **Ingeniería de Contexto**: Implementación de RAG (Retrieval-Augmented Generation) y SDDs (System Design Documents) para la orquestación de tareas complejas.
 
