@@ -80,7 +80,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 > **Enfoque**: Diseño sistémico para la detección temprana de vulneración infantil.
 
-- **Concepto**: Dispositivo ("Caballo de Troya") que utiliza **TinyML** para identificar patrones de riesgo físico en el borde.
+- **Concepto**: Dispositivo de **Protección Silente** que utiliza **TinyML** para identificar patrones de riesgo físico en el borde.
 - **Estrategia**: [Dossier Estratégico (Zenodo DOI)](https://doi.org/10.5281/zenodo.18846432).
   > *Héctor Aguila. (2026). HecAguilaV/VozdeCristal-Estrategia: implementando zenodo. Zenodo.*
 
@@ -112,11 +112,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 - Uso avanzado de Vanilla JS Modular, HTML5 Canvas y física de juego tipo platformer (Demo restringida por privacidad).
 
-**[Aplicación Blog (Ruby on Rails)](https://github.com/HecAguilaV/Aplicacion_Blog)**
-
-> **Estado**: Prototipo en desarrollo activo.
-
-- Proyecto enfocado en arquitectura **MVC**, **ActiveRecord** y escalabilidad bajo el framework **Ruby on Rails 7**. Ingeniería de backend aplicada a la gestión de contenidos.
+- **Capstone de la Certificación UNM**: Proyecto enfocado en arquitectura **MVC**, **ActiveRecord** y escalabilidad bajo el framework **Ruby on Rails 7**. Ingeniería de backend aplicada a la gestión de contenidos.
 
 ---
 
