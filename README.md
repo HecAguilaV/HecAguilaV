@@ -23,7 +23,7 @@
 
 ---
 
-## Sobre Mí: Arquitectura con Propósito
+## Mi Enfoque: Diseño y Validación
 
 ### `$ whoami`
 
@@ -31,7 +31,7 @@
 | :---------------------- | :----------------------------------------------------------------------------------------- |
 | **Estado actual** | Tercer año de Ingeniería en Informática (Mención Desarrollo de Software)               |
 | **Rol Objetivo**  | Desarrollador Junior / Estudiante de Ingeniería / Data Scientist.      |
-| **Aprendiendo**   | Kotlin Multiplatform, Arquitecturas Agénticas (IA), Microservicios, Data Science.         |
+| **Aprendiendo**   | Arquitecturas Agénticas, Gobernanza de IA, Validación de Software Asistido. |
 | **Filosofía**    | **"Orden antes que velocidad"**. Marco de Construcción Responsable. |
 
 ### Certificaciones & Formación
