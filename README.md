@@ -23,7 +23,7 @@
 
 ---
 
-## Sobre Mí
+## Sobre Mí: Arquitectura con Propósito
 
 ### `$ whoami`
 
@@ -45,7 +45,7 @@
 ## Investigación y Pensamiento (IA)
 
 <p align="justify">
-Mi enfoque no es la memorización de sintaxis, sino el <strong>Diseño de Sistemas y la Orquestación Agéntica</strong>. Utilizo la IA como una <strong>Prótesis Cognitiva</strong>, permitiéndome centrarme en la arquitectura mientras delego la ejecución técnica en agentes especializados.
+Mi enfoque no es la memorización de sintaxis, sino el <strong>Diseño de Sistemas y la Orquestación Agéntica</strong>. Me motiva la arquitectura y la ingeniería en su definición más esencial: diseñar soluciones, orquestar cómo interactúan los componentes y guiar a las máquinas para ejecutar visiones técnicas y humanas. Sin ser un "monkeycoder", mi idea es siempre <strong>construir con propósito</strong>, utilizando la IA como una <strong>Prótesis Cognitiva</strong> que me permite centrarme en la estructura mientras delego la ejecución técnica en agentes especializados.
 </p>
 
 * **Paper Académico**: [Simbiosis Humano-IA como Acelerador de Recuperación Funcional](https://zenodo.org/records/18845510) (Publicado en JAIGP/Zenodo).
