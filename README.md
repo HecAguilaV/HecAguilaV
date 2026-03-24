@@ -112,6 +112,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 - Uso avanzado de Vanilla JS Modular, HTML5 Canvas y física de juego tipo platformer (Demo restringida por privacidad).
 
+**[Aplicación Blog (Ruby on Rails)](https://github.com/HecAguilaV/Aplicacion_Blog)**
 - **Capstone de la Certificación UNM**: Proyecto enfocado en arquitectura **MVC**, **ActiveRecord** y escalabilidad bajo el framework **Ruby on Rails 7**. Ingeniería de backend aplicada a la gestión de contenidos.
 
 ---
@@ -144,8 +145,8 @@ Mi toma de decisiones sigue un protocolo estructural de <strong>6 capas de prior
 5. **Técnica**: Código limpio, seguro, mantenible y escalable.
 6. **Proyección**: Visión de sostenibilidad a largo plazo.
 
-> **"Orden antes que velocidad. Arquitectura antes que maquillaje."**
-> Diseño la arquitectura y la lógica estructural bajo mi Marco Personal de Trabajo; la IA actúa como mi brazo ejecutor y herramienta de orden. Mi valor reside en la **Validación Crítica** y la **Gobernanza de Agentes**.
+> **"Orden antes que velocidad. Arquitectura antes que maquillaje. Construir con propósito."**
+> Diseño la arquitectura y la lógica estructural bajo mi Marco Personal de Trabajo; la IA actúa como mi brazo ejecutor y herramienta de orden. Mi valor reside en la **Validación Crítica**, la **Orquestación de Sistemas** y la capacidad de guiar a las máquinas para ejecutar soluciones diseñadas con un sentido técnico y humano.
 
 ---
 
