@@ -17,7 +17,9 @@
     <a href="mailto:hdaguila@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
     <a href="https://www.credly.com/users/hecaguilav">
-      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a>
+      <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"/></a><br/><br/>
+    <a href="assets/CV-HectorAguila.pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Visualizar-CV_PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Visualizar CV PDF"/></a>
   </p>
 </div>
 
@@ -88,7 +90,7 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 > **Estado**: Ecosistema en proceso de **Migración de Infraestructura** y Arquitectura (Monorepo/Microservicios).
 
-- Acceso a **[WebApp (Demo)](https://siga-webapp.vercel.app/login)**. En proceso de investigación de **Arquitecturas Resilientes** (Integración de Gemini con Fallback en DB).
+- Acceso a **[WebApp (Demo)](https://siga-webapp.vercel.app/login)**. En proceso de diseño y validación de **Arquitecturas Resilientes** (Integración de Gemini con Fallback en DB). El repositorio prioriza el acceso a la **Documentación Arquitectónica y Lógica** sobre el código final.
 
 ### Herramientas & Colaboración
 
