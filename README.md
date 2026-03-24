@@ -44,7 +44,9 @@
 
 ## Investigación y Pensamiento (IA)
 
-Mi enfoque no es la memorización de sintaxis, sino el **Diseño de Sistemas y la Orquestación Agéntica**. Utilizo la IA como una **Prótesis Cognitiva**, permitiéndome centrarme en la arquitectura mientras delego la ejecución técnica en agentes especializados.
+<p align="justify">
+Mi enfoque no es la memorización de sintaxis, sino el <strong>Diseño de Sistemas y la Orquestación Agéntica</strong>. Utilizo la IA como una <strong>Prótesis Cognitiva</strong>, permitiéndome centrarme en la arquitectura mientras delego la ejecución técnica en agentes especializados.
+</p>
 
 * **Paper Académico**: [Simbiosis Humano-IA como Acelerador de Recuperación Funcional](https://zenodo.org/records/18845510) (Publicado en JAIGP/Zenodo).
 * **Articulo en LinkedIn**: [La pantalla como espejo: externalizar el pensamiento](https://www.linkedin.com/pulse/la-pantalla-como-espejo-externalizar-el-pensamiento-cuando-aguila-3nkxf).
@@ -135,7 +137,9 @@ Desarrollo soluciones donde la IA no es un chatbot, sino un componente de arquit
 
 ## Marco de Construcción Responsable
 
-Mi toma de decisiones sigue un protocolo estructural de **6 capas de prioridad** que garantiza soluciones éticas y humanas:
+<p align="justify">
+Mi toma de decisiones sigue un protocolo estructural de <strong>6 capas de prioridad</strong> que garantiza soluciones éticas y humanas:
+</p>
 
 1. **Ética**: Verdad y responsabilidad antes que funcionalidad.
 2. **Humana**: ¿Qué transformación positiva genera en el usuario? (**Capa Suprema**).
